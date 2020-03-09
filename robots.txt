@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://puowequaix.quiz-wiz.co.uk/sitemap.xml
